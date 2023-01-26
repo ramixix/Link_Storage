@@ -135,6 +135,8 @@ Since I use different hard drives with different operating systems for different
 
 - [freecodecamp](https://www.youtube.com/@freecodecamp/playlists) - https://www.youtube.com/@freecodecamp/playlists
 
+- [The Cherno](https://www.youtube.com/@TheCherno/playlists) - https://www.youtube.com/@TheCherno/playlists
+
 - [ServetGulnaroglu](https://www.youtube.com/@ServetGulnaroglu/videos) - https://www.youtube.com/@ServetGulnaroglu/videos
 
 - [codebreakthrough](https://www.youtube.com/@codebreakthrough/playlists) - https://www.youtube.com/@codebreakthrough/playlists
