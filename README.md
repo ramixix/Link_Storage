@@ -149,6 +149,8 @@ Since I use different hard drives with different operating systems for different
 
 - [FilippoValsorda](https://www.youtube.com/@FilippoValsorda/videos) - https://www.youtube.com/@FilippoValsorda/videos
 
+- [Eric O Meehan(C)](https://www.youtube.com/@EricOMeehan/videos) - https://www.youtube.com/@EricOMeehan/videos
+
 - [elithecomputerguy](https://www.youtube.com/@elithecomputerguy) - https://www.youtube.com/@elithecomputerguy
 
 
@@ -165,5 +167,19 @@ Since I use different hard drives with different operating systems for different
 - [escaping](https://www.youtube.com/@escaping.ordinary/videos) - https://www.youtube.com/@escaping.ordinary/videos
 
 - [BetterThanYesterday](https://www.youtube.com/@BetterThanYesterday/videos) - https://www.youtube.com/@BetterThanYesterday/videos
+
+- [Thinker](https://www.youtube.com/@ThinkerYT/videos) - https://www.youtube.com/@ThinkerYT/videos
+
+- [BrainStationChannel](https://www.youtube.com/@BrainStationChannel/videos) - https://www.youtube.com/@BrainStationChannel/videos
+
+- [KiraTV](https://www.youtube.com/@KiraTV1/videos) - https://www.youtube.com/@KiraTV1/videos
+
+- [Anonymous Official](https://www.youtube.com/@-anonymous/videos) - https://www.youtube.com/@-anonymous/videos
+
+- [AnonymousGroup](https://www.youtube.com/@AnonymousGroup/videos) - https://www.youtube.com/@AnonymousGroup/videos
+
+- [CyberNews](https://www.youtube.com/@cybernews/videos) - https://www.youtube.com/@cybernews/videos
+
+- [IBMTechnology](https://www.youtube.com/@IBMTechnology/videos) - https://www.youtube.com/@IBMTechnology/videos
 
 
