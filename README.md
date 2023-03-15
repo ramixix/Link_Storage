@@ -182,4 +182,6 @@ Since I use different hard drives with different operating systems for different
 
 - [IBMTechnology](https://www.youtube.com/@IBMTechnology/videos) - https://www.youtube.com/@IBMTechnology/videos
 
+- [Hussein Nasser](https://www.youtube.com/@hnasr/playlists) - https://www.youtube.com/@hnasr/playlists
 
+- [Johnny Harris](https://www.youtube.com/@johnnyharris/videos) - https://www.youtube.com/@johnnyharris/videos
