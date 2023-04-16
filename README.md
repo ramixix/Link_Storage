@@ -113,14 +113,17 @@ Since I use different hard drives with different operating systems for different
 
 - [q0phi80](https://www.youtube.com/@q0phi80/playlists) - https://www.youtube.com/@q0phi80/playlists
 
-- [InfoSec4tc](https://www.youtube.com/@InfoSec4tc/playlists) - https://www.youtube.com/@InfoSec4tc/playlists
+- [NetworkChuck](https://www.youtube.com/@NetworkChuck/videos) - https://www.youtube.com/@NetworkChuck/videos
 
-- [Bendobrown](https://www.youtube.com/@Bendobrown/playlists) - https://www.youtube.com/@Bendobrown/playlists
-
-- [OSINTDojo](https://www.youtube.com/@OSINTDojo/videos) - https://www.youtube.com/@OSINTDojo/videos
+- [Security Now](https://www.youtube.com/@securitynow/videos) - https://www.youtube.com/@securitynow/videos
 
 - [MotasemHamdan](https://www.youtube.com/@MotasemHamdan/videos) - https://www.youtube.com/@MotasemHamdan/videos
 
+- [Bendobrown](https://www.youtube.com/@Bendobrown/playlists) - https://www.youtube.com/@Bendobrown/playlists
+
+- [InfoSec4tc](https://www.youtube.com/@InfoSec4tc/playlists) - https://www.youtube.com/@InfoSec4tc/playlists
+
+- [OSINTDojo](https://www.youtube.com/@OSINTDojo/videos) - https://www.youtube.com/@OSINTDojo/videos
 
 
 # Programming
@@ -164,6 +167,8 @@ Since I use different hard drives with different operating systems for different
 
 - [Seytonic](https://www.youtube.com/@Seytonic/videos) - https://www.youtube.com/@Seytonic/videos
 
+- [JackRhysider](https://www.youtube.com/@JackRhysider/videos) - https://www.youtube.com/@JackRhysider/videos
+
 - [escaping](https://www.youtube.com/@escaping.ordinary/videos) - https://www.youtube.com/@escaping.ordinary/videos
 
 - [BetterThanYesterday](https://www.youtube.com/@BetterThanYesterday/videos) - https://www.youtube.com/@BetterThanYesterday/videos
@@ -185,3 +190,5 @@ Since I use different hard drives with different operating systems for different
 - [Hussein Nasser](https://www.youtube.com/@hnasr/playlists) - https://www.youtube.com/@hnasr/playlists
 
 - [Johnny Harris](https://www.youtube.com/@johnnyharris/videos) - https://www.youtube.com/@johnnyharris/videos
+
+- [Kitboga](https://www.youtube.com/@KitbogaShow/videos) - https://www.youtube.com/@KitbogaShow/videos
