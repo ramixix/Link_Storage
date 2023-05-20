@@ -2,7 +2,9 @@
 It is a repository for all of the useful resources that I have found over the past years.  
 
 # Why?
-Since I use different hard drives with different operating systems for different purposes, I sometimes have a hard time synchronizing my browser bookmarks, so I thought that synchronization would be easier if I put all the links in one place and I also made a simple HTML page with all these links. Then I set this page as my browser home page.
+I have a hard time synchronizing my browser bookmarks across the different operating systems installed on my machine and there are some links that I follow constantly, so I thought it would be easier to synchronize if I put all the links in one place. I also made a simple HTML page with all these links, you can set it as your browser's home page like I did.
+
+![demo_image](demo.png)
 
 # Malware Analysis
 ## YouTube Channels
