@@ -70,6 +70,10 @@ I have a hard time synchronizing my browser bookmarks across the different opera
  
 - [yarden](https://windows-internals.com/author/yarden/) - https://windows-internals.com/author/yarden/
 
+- [0xinfection](https://0xinfection.github.io/reversing/pages/x86-course.html) - https://0xinfection.github.io/reversing/pages/x86-course.html
+
+- [opensecuritytraining](https://opensecuritytraining.info/Training.html) - https://opensecuritytraining.info/Training.html
+
 
 # Hacking 
 
